@@ -1,2 +1,1 @@
-# azure-terraform-beginners
-Beginners Guide to Terraforming Azure
+Started with this: https://www.youtube.com/watch?v=Axs2IH94hbA
